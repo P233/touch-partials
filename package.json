@@ -7,6 +7,7 @@
   "bin": {
     "partials": "./bin/index.js"
   },
+  "preferGlobal": true,
   "dependencies": {
     "colors": "^0.6.2",
     "fs-extra": "^0.11.1"
