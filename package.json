@@ -14,5 +14,18 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/P233/touch-partials"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/P233/touch-partials/issues"
+  },
+  "homepage": "https://github.com/P233/touch-partials",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "partials",
+    "Sass",
+    "SCSS",
+    "LESS"
+  ]
 }
