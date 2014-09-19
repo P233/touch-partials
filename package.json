@@ -1,7 +1,7 @@
 {
   "name": "touch-partials",
   "description": "Create empty partial files for Sass, SCSS, and LESS.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Peiwen Lu",
   "license": "MIT",
   "bin": {
